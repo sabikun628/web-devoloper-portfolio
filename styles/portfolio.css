@@ -102,3 +102,32 @@ margin-bottom: 30px;
     text-align: center;
     font-size: 18px;
 }
+main{
+    width: 1140px;
+    margin: 0 auto;
+}
+.about-info-container{
+display: flex;
+justify-content: space-around;
+
+
+}
+.about-info{
+    text-align: center;
+    
+
+}
+.info-title{
+    color: #757575;
+    font-size: 20px;
+   font-weight: 400;
+   line-height: 20px;
+   margin-bottom: 0;
+}
+.info-description{
+    color: #474747;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 5px;
+
+}
