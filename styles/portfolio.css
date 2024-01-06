@@ -183,6 +183,38 @@ margin-bottom: 10px;
     text-align: center;
     margin-top:50px ;
 }
+footer{
+    display: flex;
+    gap: 100px;
+    background-color: #FFF8F3;
+    padding: 140px 200px;
+    margin-top: 100px;
+  
+}
+.footer-collum{
+    width: 50%;
 
+}
+.contact input,  textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    border: 0;
+    background: #FFf;
+    width: 100%; 
+}
+#btn-footer{
+    background-color:#FD6E0A ;
+     color: white;
+     border: 1px solid #FD6E0A;
+     border-radius: 5px;
+     padding: 15px ;
+     width: 150px;
+     height: 64px; 
+}
+.social-link a{
+  margin-right: 25px;
 
-
+}
