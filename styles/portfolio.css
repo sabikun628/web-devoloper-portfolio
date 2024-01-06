@@ -137,4 +137,14 @@ justify-content: space-around;
 }
 .skill-containar{
    display: flex;
+gap: 35px;
+}
+.skill-discription{
+   padding-right: 5px;
+}
+.skill{
+    padding: 30px;
+    border-radius: 8px;
+    background-color: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
