@@ -131,3 +131,10 @@ justify-content: space-around;
     margin-top: 5px;
 
 }
+#what-i-do-description{
+    padding: 30px 150px;
+
+}
+.skill-containar{
+   display: flex;
+}
