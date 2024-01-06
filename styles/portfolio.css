@@ -15,6 +15,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items:center;
+    margin: 0 200px;
 
 }
 .nav-title{
@@ -47,4 +48,21 @@ color:  #474747;
      padding: 15px ;
      width: 150px;
      height: 64px;
+}
+.header-class{
+    background: #FFF8F3;
+}
+.banner{
+    padding:30px 30px 30px 150px  ;
+    display: flex;
+    /* justify-content: space-between; */
+   align-items: center;
+}
+.banner  .profile-img{
+    width: 500px;
+    
+    /* height: 676px; */
+}
+.bannaer-content{
+    
 }
